@@ -1,7 +1,7 @@
-import pandas as pd
 import wget
 
-PATH = 'scripts'
+PATH = "scripts"
+
 
 def get_readme_file(url: str) -> str:
     """get readme from github repo"""
