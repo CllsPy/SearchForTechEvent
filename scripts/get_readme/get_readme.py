@@ -1,9 +1,9 @@
 import os
 import wget
 
-URL = "https://github.com/Abacatinhos/agenda-tech-brasil/blob/main/README.md"
+URL = "https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/refs/heads/main/src/db/database.json"
 
-OUTPUT_FILE = "file"
+OUTPUT_FILE = "file.json"
 
 
 def get_readme_file() -> str:
@@ -18,9 +18,5 @@ def get_readme_file() -> str:
         file_contents = user_file.read()
 
 
-    return print(file_contents)
+    return file_contents
 
-#get_readme_file()
-
-readfile = wget.download(URL, OUTPUT_FILE)
-print(readfile)
