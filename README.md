@@ -7,8 +7,7 @@
 **SearchForTechEvent** é um webapp desenvolvido para facilitar a filtragem de eventos tecnológicos no Brasil. A ideia surgiu após eu ter tido contato com o repositório [AgendaTechBrasil](https://github.com/Abacatinhos/agenda-tech-brasil). A aplicação utiliza o Streamlit para a interface e o Gemini 1.5 Flash para extrair e gerar a tabela a partir do arquivo [JSON](https://github.com/Abacatinhos/agenda-tech-brasil/blob/main/src/db/database.json).
 
 ### O que é o Abacatinhos.dev
-
-Nas palavras deles: Grupo de pessoas brasileiras da área de Developer Relations, criado por @pachicodes.
+Grupo de pessoas brasileiras da área de Developer Relations, criado por @pachicodes.
 
 ## Usage
 
