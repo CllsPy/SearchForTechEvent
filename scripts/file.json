@@ -2,11 +2,11 @@
   "eventos": [
     {
       "ano": 2024,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
         {
           "mes": "novembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "GambiConf 2024",
@@ -1099,6 +1099,36 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Natal do SouJava na Oracle",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/soujava/events/304890440/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Clube do Livro Java Efetivo",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/javagirlsjug/events/304914291",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304509754",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         }
@@ -1109,9 +1139,475 @@
       "arquivado": false,
       "meses": [
         {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Confraria Web3 - São Paulo",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/304681266",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/php-sp/events/300873764",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Caminhos para uma Carreira em Cloud para Mulheres",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Live: Dicas de carreira para pessoas desenvolvedoras de RPA",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.youtube.com/watch?v=r_n1zam__5g",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Princípios básicos e conceitos de nuvem",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Beer for Devs - De volta para 2025: o futuro chegou!",
+              "data": [
+                "16"
+              ],
+              "url": "https://eventos.totvs.com/event/beer-for-devs-tendencias-2025?utm_campaign=pautas-organicas-social&utm_source=linkedin-sc&utm_medium=organico&utm_term=institucional-totvs_institucional&utm_content=social_feed_estatico_pauta-4-beer-for-devs-incricao-tendencias-2025_20250109",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Descrever aplicações e serviços do Microsoft 365",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Meetup Codecon - #09 Florianópolis",
+              "data": [
+                "21"
+              ],
+              "url": "https://eventos.codecon.dev/meetup-codecon-fln-09/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Descrever as capacidades de segurança e conformidade do Microsoft 365",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305131240",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Ano Novo do SouJava na Oracle",
+              "data": [
+                "22"
+              ],
+              "url": "https://souj.org/jan25",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Thasfin #20 | Orange Juice | Fcamara",
+              "data": [
+                "23"
+              ],
+              "url": "https://guild.host/events/thasfin-20-orange-juice-6p4kc5",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP Meetup #133 - IA no futuro: desenvolvimento ético e responsável",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305608038",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Meetup Codecon - #12 - Joinville",
+              "data": [
+                "23"
+              ],
+              "url": "https://eventos.codecon.dev/meetup-codecon-joi-12/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Vamos Programar Juntos a Web3 com a Confraria.",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/305689573",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Roda de Conversa Pyladies Manaus",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.even3.com.br/roda-de-conversa-pyladies-manaus/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft 365 Para Elas: próximos passos em seu plano de estudos!",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Boa semana web 3 Meetup Online de Segunda-feira",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/305734015",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Construindo agents autônomos inteligentes com Copilot Studio e AI Builder",
+              "data": [
+                "28"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Introdução ao Azure IoT Operations",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "112º Meetup AWS UG SP - O Jogo da Inspeção na AWS",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/awsusergroupsp/events/305669500",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "fevereiro",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "VII Meetup PyData Manaus",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.even3.com.br/pydata-manaus/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações",
+              "data": [
+                "03"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/304541695",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "RocketSeat Start 2025 - O guia para o seu novo ano na programação",
+              "data": [
+                "03"
+              ],
+              "url": "https://rocketseat.com.br/eventos/start/convite/veridiana-4585",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Engenharia de prompt com o GitHub Copilot",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "[Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.meetup.com/uber-tech-latam/events/305607351/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305753577",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Construindo uma Aplicação Web de IA com Python e Flask",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/uber-tech-latam/events/305607442",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/engenharia-dados-academy/events/305898094",
+              "cidade": "Brasilia",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Encontro de Fevereiro no Núcleo de Tecnologia do MTST",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/grupy-sp/events/305843538",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Excel Weekend 10",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Confraria ZN - Bitcoin & web3",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/confrariaweb3/events/306059999",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Crie Testes Unitários e Documentação com GitHub Copilot",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305991139/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Golang SP na Uber",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/305810241/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Colaboração e implantação com o GitHub Copilot",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305594436/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "AI Cybersecurity Night 2025",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hack In Cariri - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344",
+              "cidade": "Juazeiro Do Norte",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DP-700: Ingestão e Transformação de Dados no Microsoft Fabric",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761075",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761164",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "AGI Club #1 - Ifood Lab",
+              "data": [
+                "19"
+              ],
+              "url": "https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news",
+              "cidade": "Osasco",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
             {
               "nome": "FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA",
               "data": [
@@ -1121,6 +1617,156 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Global Power Platform Bootcamp 2025",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "FortalSec - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.fortalsec.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hacking Na Web Day - Brasília - 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Mulher Tech Sim Senhor",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.mulhertechsimsr.com.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOps Days Goiânia 2025",
+              "data": [
+                "15"
+              ],
+              "url": "https://devopsdays.org/events/2025-goiania/welcome/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SecOps Summit 2025",
+              "data": [
+                "19",
+                "20",
+                "21"
+              ],
+              "url": "https://www.secopssummit.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/306033353",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Data World Xperience 2025 - Explore o futuro dos dados além da IA",
+              "data": [
+                "20",
+                "21"
+              ],
+              "url": "https://dwxperience.com.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BSidesRJ - 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://bsidesrj.com.br/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "KCD Rio de Janeiro 2025 (Cloud)",
+              "data": [
+                "22"
+              ],
+              "url": "https://community.cncf.io/kcd-brasil/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Summit SP",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/summit-sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Sem Servidor Conf 2025",
+              "data": [
+                "28"
+              ],
+              "url": "https://semservidor.com.br/sem-servidor-conf/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1128,6 +1774,44 @@
           "mes": "abril",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Computer on the beach",
+              "data": [
+                "02",
+                "03",
+                "04",
+                "05"
+              ],
+              "url": "https://computeronthebeach.com.br/",
+              "cidade": "Itajaí",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Agile Trends 2025 - Inteligência Artificial: agilidade e transformação",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://agiletrendsbr.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)",
+              "data": [
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://www.educompbrasil.org/simposio/2025/sbc-eb",
+              "cidade": "Juiz De Fora",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
             {
               "nome": "IAM Tech Day São Paulo 2025",
               "data": [
@@ -1138,6 +1822,29 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Recife - 2025",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Web Summit Rio 2025",
+              "data": [
+                "27",
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://rio.websummit.com/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
@@ -1146,6 +1853,19 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "MiniDebConf Maceió 2025",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://maceio.mini.debconf.org/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GopherCon Brasil 2025",
               "data": [
                 "05",
@@ -1153,6 +1873,28 @@
               ],
               "url": "https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025",
               "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BSidesSP - 2025",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://securitybsides.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Codecon Universe",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://codecon.dev/universe",
+              "cidade": "Joinville",
               "uf": "SC",
               "tipo": "presencial"
             },
@@ -1169,6 +1911,55 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "SIRENA Conference - 2025",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/sirena.conference/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Velho Oeste 2025",
+              "data": [
+                "30",
+                "31"
+              ],
+              "url": "https://phpvelhoeste.com.br/",
+              "cidade": "Chapecó",
+              "uf": "SC",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "junho",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Floripa",
+              "data": [
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/florianopolis/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -1176,6 +1967,28 @@
           "mes": "julho",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Codecon Summit",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://codecon.dev/summit",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Codecon Summit 25",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://eventos.codecon.dev/codecon-summit-25/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
             {
               "nome": "XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025",
               "data": [
@@ -1188,6 +2001,42 @@
               "url": "https://csbc.sbc.org.br/2025/",
               "cidade": "Maceió",
               "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Woman 2025",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife, Pernambuco",
+              "uf": "PE",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Security Leaders Recife 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://securityleaders.com.br/eventos/security-leaders-recife-2025/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Florianópolis - 2025",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
               "tipo": "presencial"
             }
           ]
@@ -1208,6 +2057,38 @@
               "cidade": "Foz do Iguaçu",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XibéSec - 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.instagram.com/xibesec/",
+              "cidade": "Belém",
+              "uf": "PA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC SP",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -1216,7 +2097,7 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "Python Brasil 2024",
+              "nome": "Python Brasil 2025",
               "data": [
                 "21",
                 "22",
@@ -1230,6 +2111,54 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking Na Web Day - São Paulo - 2025",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CS4CA LatAm Summit",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://latam.cs4ca.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "novembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Big Data Brazil Experience 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC Summit Brasília",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2025/summit-brasilia/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "híbrido"
             }
           ]
         }
@@ -1259,20 +2188,6 @@
       "tipo": "híbrido"
     },
     {
-      "nome": "FrontConf Experience 2024 - Mergo",
-      "url": "https://www.mergo.com.br/eventos/frontconfxp/",
-      "cidade": "",
-      "uf": "",
-      "tipo": "online"
-    },
-    {
-      "nome": "DevOpsDays Curitiba 2024",
-      "url": "https://devopsdays.org/events/2024-curitiba/welcome/",
-      "cidade": "Curitiba",
-      "uf": "PR",
-      "tipo": "presencial"
-    },
-    {
       "nome": "XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)",
       "url": "https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc",
       "cidade": "Brasília",
@@ -1298,6 +2213,20 @@
       "url": "https://linktr.ee/hackingnawebday",
       "cidade": "Florianópolis",
       "uf": "SC",
+      "tipo": "presencial"
+    },
+    {
+      "nome": "Datacon",
+      "url": "https://codecon.dev/datacon",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "tipo": "presencial"
+    },
+    {
+      "nome": "Select Experience",
+      "url": "https://codecon.dev/select",
+      "cidade": "São Paulo",
+      "uf": "SP",
       "tipo": "presencial"
     }
   ]

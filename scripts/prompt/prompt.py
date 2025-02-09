@@ -1,18 +1,31 @@
 def filter(ESTADO, MES, ANO):
     prompt_text = f"""
+    Analise o arquivo JSON fornecido e retorne uma tabela em markdown contendo APENAS os eventos que atendam aos seguintes critérios:
 
-    Analise o arquivo JSON e filtre APENAS os eventos para o estado:
+    - Estado: {ESTADO}
+    - Mês: {MES}
+    - Ano: {ANO}
 
-    - estado de{ESTADO}
-    - mês de {MES} 
-    - ano de {ANO}
+    A tabela deve conter as seguintes colunas:
+    - Nome do Evento
+    - Data(s)
+    - Cidade
+    - Tipo (presencial/online/híbrido)
+    - URL
 
-    Retorne a resposta em uma tabela em formato markdown. 
-    Use apenas as informações que estiveram no JSON.
+    Regras:
+    1. Se não houver eventos para a combinação especificada, retorne uma tabela vazia
+    2. Ordene os eventos por data
+    3. Para eventos com múltiplos dias, concatene as datas
+    4. Mantenha as URLs originais completas
+    5. Use o formato markdown para a tabela
 
-    Retorne a tabela vazia se a combinação: {ESTADO}, {MES}, {ANO} não existir no JSON.
+    Formato esperado da tabela:
+    | Evento | Data | Cidade | Tipo | URL |
+    |--------|------|---------|------|-----|
+    | ... | ... | ... | ... | ... |
 
-    
+    Use apenas as informações existentes no JSON fornecido.
     """
-
+    
     return prompt_text
