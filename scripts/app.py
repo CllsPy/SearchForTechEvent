@@ -3,7 +3,9 @@ import json
 import os
 from prompt.prompt import filter
 from get_readme.get_readme import get_readme_file
-import google.generativeai as genai
+from google import genai
+
+MODEL = "gemini-2.0-flash"
 
 # Função para solicitar a API key do usuário
 def load_api():
@@ -11,21 +13,20 @@ def load_api():
 
 # Função para carregar o modelo e obter os resultados
 def load_model(api_key: str, ESTADO: str, MES: str, ANO: str):
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
-    response = model.generate_content(f"{filter(ESTADO, MES, ANO)} : {get_readme_file()}")
+    client = genai.Client(api_key=api_key)
+    response = client.models.generate_content(
+        model = MODEL,
+        contents = f"{filter(ESTADO, MES, ANO)} : {get_readme_file()}"
+    )
     return response.text
 
 # Configuração da página do Streamlit
 st.set_page_config(
-    page_title="AgendaTechFilter",
-    layout="centered",
+    page_title="Agenda Tech",
     page_icon="📅",
 )
 
-# Título e imagem
-st.title("AgendaTechFilterBR")
-st.image("https://raw.githubusercontent.com/Abacatinhos/agenda-tech-brasil/main/assets/abacatinhos.svg", width=200)
+
 
 # Solicitação da API key do usuário
 st.subheader("🔑 Insira sua API key do Gemini")
@@ -33,12 +34,15 @@ api_key = st.text_input("API Key", type="password", help="Sua API key é necess�
 
 # Formulário para selecionar estado, mês e ano
 with st.form("Filter"):
+    # Título e imagem
+    st.title("Agenda Tech AI")
     st.subheader("🔍 Filtre os eventos")
     col1, col2, col3 = st.columns(3)
 
     with col1:
         estado = st.selectbox("ESTADO", [
-            "Alagoas/AL", 
+            "Alagoas/AL",
+            "Rio de Janeiro/RJ",
             "São Paulo/SP", 
             "Minas Gerais/MG", 
             "Pernambuco/PE"], help="Selecione o estado desejado.")
@@ -50,7 +54,7 @@ with st.form("Filter"):
         ], help="Selecione o mês desejado.")
 
     with col3:
-        ano = st.selectbox("Ano", ["2024", "2025"], help="Selecione o ano desejado.")
+        ano = st.selectbox("Ano", ["2023", "2024", "2025"], help="Selecione o ano desejado.")
 
     submit = st.form_submit_button("Filtrar Eventos 🚀")
 
